@@ -5,7 +5,7 @@
 
 Fala Dev 👋🏾
 
- 👩🏾‍💻 Atualmente trabalho com java, elasticsearch, asp entre outras tecnologias, estou no mercado a mais de 5 anos. 
+ 👩🏾‍💻 Atualmente trabalhando com Angular, mas com experiencia no mercado com outras stacks como java, elasticsearch, asp entre outras tecnologias, estou no mercado a mais de 5 anos. 
  
  🚀 Estudando e buscando novos conhecimentos.
  
