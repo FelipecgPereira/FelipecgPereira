@@ -7,13 +7,13 @@
 
  Me chamo Felipe e atualmente trabalhando com Angular, mas com experiencia no mercado com outras stacks como java, elasticsearch, asp entre outras tecnologias, estou no mercado a mais de 6 anos, sempre buscando agregar com meus conhecimentos e obter novos 😁. 
 
----
+
 ## 📋 Curte fazer?
 
  - Estudar e buscar novos conhecimentos. 🚀 
  
  - Adoro compartilhar conhecimentos com minhas experiencias, estou sempre disponivel para ajudar.⚡
----
+
  ## 🎯 Stacks
 
 - [Angular](https://angular.io/)
