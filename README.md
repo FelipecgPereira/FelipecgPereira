@@ -4,8 +4,8 @@
 
 
 ## 👩🏾‍💻 Quem sou eu ?
-
- Me chamo Felipe e atualmente trabalhando com Angular, mas com experiencia no mercado com outras stacks como java, elasticsearch, asp entre outras tecnologias, estou no mercado a mais de 6 anos, sempre buscando agregar com meus conhecimentos e obter novos 😁. 
+ 
+ Sou um apaixonado por tecnologia, busco aplicar as boas praticas de desenvolvimento,  full stack com mais de 7 anos atuando no mercado, também gosto de agregar com os meus conhecimentos e obter novos 😁. 
 
 
 ## 📋 Curte fazer?
